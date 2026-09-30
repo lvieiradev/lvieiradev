@@ -35,7 +35,7 @@
 <div align="center">
 
 <!-- Streak igual ao da sua referência -->
-<img src="https://streak-stats.demolab.com/?user=lvieiradev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="Streak do GitHub" />
+<img src="https://streak-stats.demolab.com/?user=lvieiradev&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" width="500" alt="Streak do GitHub" />
 
 <br/><br/>
 
