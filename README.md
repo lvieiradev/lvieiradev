@@ -9,10 +9,10 @@
 
 <img src="https://skillicons.dev/icons?i=js,nodejs,python,cpp,java,git,linux&theme=dark" alt="Tecnologias" />
 
+</div>
+
 # >_ Ah, Hello! 👋
 
-
-</div>
 ## >_ About Me
 
 - 🎓 **Formação:** _(Gestão de T.I / FATEC)_
@@ -21,7 +21,7 @@
 - 🔥 **Meta:** programar todos os dias e manter a sequência de contribuições
 - 📫 **Contato:** _(l.vieirasdev@gmail.com)_
 
-## >_ Tecnologias
+## >_ Technologies
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
@@ -31,7 +31,7 @@
 
 <!-- Remova o que você não usa e adicione o que usa. Ícones em https://simpleicons.org -->
 
-## >_ Estatísticas
+## >_ Statistics
 
 <div align="center">
 
