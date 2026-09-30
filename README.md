@@ -11,7 +11,6 @@
 
 # >_ Ah, Hello! 👋
 
-**Estudante de programação · Desenvolvedor Web · Suporte de TI**
 
 </div>
 
