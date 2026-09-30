@@ -9,7 +9,7 @@
 
 <img src="https://skillicons.dev/icons?i=js,nodejs,python,cpp,java,git,linux&theme=dark" alt="Tecnologias" />
 
-# Olá, eu sou o Lucas! 👋
+# >_ Ah, Hello! 👋
 
 **Estudante de programação · Desenvolvedor Web · Suporte de TI**
 
@@ -18,7 +18,7 @@
 ---
 
 
-## >_ Sobre mim
+## >_ About Me
 
 - 🎓 **Formação:** _(Gestão de T.I / FATEC)_
 - 💼 **Estágio:** PROATI — suporte técnico, desenvolvimento e gestão de dispositivos
@@ -50,11 +50,4 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=lvieiradev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Estatísticas" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvieiradev&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais usadas" />
-</div>
-
-## >_ Redes
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/lucasvieiravv)
-[![E-mail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:l.vieirasdev@gmail.com)
 </div>
