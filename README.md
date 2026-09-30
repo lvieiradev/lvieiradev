@@ -11,15 +11,14 @@
 
 </div>
 
-# >_ Ah, Hello! 👋
+# >_ Ah, Hello! 
 
 ## >_ About Me
 
 - 🎓 **Formação:** _(Gestão de T.I / FATEC)_
 - 💼 **Estágio:** PROATI — suporte técnico, desenvolvimento e gestão de dispositivos
-- 🌱 **Estudando agora:** _(ex.: Java, C++)_
+- 🌱 **Estudando agora:** _(Java, C++, Js)_
 - 🔥 **Meta:** programar todos os dias e manter a sequência de contribuições
-- 📫 **Contato:** _(l.vieirasdev@gmail.com)_
 
 ## >_ Technologies
 
