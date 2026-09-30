@@ -7,7 +7,7 @@
 
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,git,linux&theme=dark" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,cpp,java,git,linux&theme=dark" alt="Tecnologias" />
 
 # Olá, eu sou o Lucas! 👋
 
