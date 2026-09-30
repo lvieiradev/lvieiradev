@@ -13,10 +13,6 @@
 
 
 </div>
-
----
-
-
 ## >_ About Me
 
 - 🎓 **Formação:** _(Gestão de T.I / FATEC)_
@@ -24,9 +20,6 @@
 - 🌱 **Estudando agora:** _(ex.: Java, C++)_
 - 🔥 **Meta:** programar todos os dias e manter a sequência de contribuições
 - 📫 **Contato:** _(l.vieirasdev@gmail.com)_
-
-
-> Dica: fixe (pin) até 6 repositórios no seu perfil para os melhores aparecerem no topo.
 
 ## >_ Tecnologias
 
