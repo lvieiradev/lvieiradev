@@ -12,7 +12,7 @@
 </div>
 
 # >_ Ah, Hello! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" />
-Meu nome é Lucas Vieira, um Desenvolvedor Full Stack brasileiro de 24 anos. Minha jornada na tecnologia começou aos 19 anos com a manutenção de hardware, mas em 2023 decidi redirecionar minha carreira para o desenvolvimento de software. Atualmente, construo projetos pessoais com as tecnologias que mais me fascinam
+Meu nome é Lucas Vieira,sou um Desenvolvedor Full Stack brasileiro de 24 anos. Minha jornada na tecnologia começou aos 19 anos com a manutenção de hardware, mas em 2023 decidi redirecionar minha carreira para o desenvolvimento de software. Atualmente, construo projetos pessoais com as tecnologias que mais me fascinam
 
 ## >_ About Me
 - 🎓 **Formação:** _(Gestão de T.I / FATEC)_
