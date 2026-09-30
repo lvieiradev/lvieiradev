@@ -11,8 +11,7 @@
 
 </div>
 
-<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/lottie.json"> # >_ Ah, Hello! 
-
+# >_ Ah, Hello! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" />
 ## >_ About Me
 
 - 🎓 **Formação:** _(Gestão de T.I / FATEC)_
