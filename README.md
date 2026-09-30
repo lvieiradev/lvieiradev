@@ -11,7 +11,7 @@
 
 </div>
 
-# >_ Ah, Hello! 
+<img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f4da/lottie.json"> # >_ Ah, Hello! 
 
 ## >_ About Me
 
