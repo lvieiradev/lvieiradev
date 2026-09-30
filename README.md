@@ -34,8 +34,6 @@ Meu nome é Lucas Vieira, um Desenvolvedor Full Stack brasileiro de 24 anos. Min
 
 <div align="center">
 
-<!-- Streak igual ao da sua referência -->
-<<img src="https://streak-stats.demolab.com/?user=lvieiradev&hide_border=true&background=13131F&stroke=E4E4E4&ring=FF3D8B&fire=FF3D8B&currStreakNum=FFD84D&sideNums=FF3D8B&currStreakLabel=FFD84D&sideLabels=FF3D8B&dates=9EEAE0&date_format=M%20j%5B%2C%20Y%5D" width="700" alt="Streak do GitHub" />
-<br/><br/>
+<img src="https://streak-stats.demolab.com/?user=lvieiradev&background=13131F&border=2F6BFF&border_radius=0&stroke=E4E4E4&ring=FF3D8B&fire=FF3D8B&currStreakNum=FFD84D&sideNums=FF3D8B&currStreakLabel=FFD84D&sideLabels=FF3D8B&dates=9EEAE0&date_format=M%20j%5B%2C%20Y%5D&card_width=880&card_height=200" width="100%" alt="Streak do GitHub" />
 
 </div>
