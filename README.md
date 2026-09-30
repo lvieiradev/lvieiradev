@@ -39,6 +39,4 @@
 
 <br/><br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=lvieiradev&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="Estatísticas" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lvieiradev&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Linguagens mais usadas" />
 </div>
