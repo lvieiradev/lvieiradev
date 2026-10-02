@@ -1,8 +1,5 @@
-<!-- Crie um repositório PÚBLICO chamado exatamente "lvieiradev" (igual ao seu usuário) e coloque este arquivo como README.md -->
-
 <div align="center">
 
-<!-- Troque por um banner seu (1200x300 fica bom). Pode gerar no Canva/Figma e subir no próprio repositório -->
 <img src="./Banner.jpg" alt="Banner Lucas Vieira" width="100%" />
 
 <br/>
@@ -27,8 +24,6 @@ Meu nome é Lucas Vieira,sou um Desenvolvedor Full Stack brasileiro de 24 anos. 
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
-<!-- Remova o que você não usa e adicione o que usa. Ícones em https://simpleicons.org -->
 
 ## >_ Statistics
 
