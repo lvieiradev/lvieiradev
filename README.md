@@ -3,7 +3,7 @@
 <img src="./Banner.jpg" alt="Banner Lucas Vieira" width="100%" />
 <br/>
 
-<img src="https://skillicons.dev/icons?i=js,nodejs,python,cpp,java,git,linux&theme=dark" alt="Tecnologias" />
+<img src="https://skillicons.dev/icons?i=js,nodejs,python,cpp,java,git,mysql,linux&theme=dark" alt="Tecnologias" />
 </div>
 
 # >_ Ah, Hello! <img src="https://fonts.gstatic.com/s/e/notoemoji/latest/1f44b/512.gif" alt="👋" width="35" />
