@@ -15,15 +15,6 @@ Meu nome é Lucas Vieira,sou um Desenvolvedor Full Stack brasileiro de 24 anos. 
 - 🌱 **Estudando agora:** _(Java, C++, Js)_
 - 🔥 **Meta:** programar todos os dias e manter a sequência de contribuições
 
-## >_ Technologies
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-
 ## >_ Statistics
 
 <div align="center">
